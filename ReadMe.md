@@ -1,2 +1,2 @@
 HomeWork of techmaster
-SimpleAppPlayMusic part 1
+SimpleAppPlayMusic part 2
